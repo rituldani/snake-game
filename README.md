@@ -23,8 +23,10 @@ A classic Snake Game implemented in C. The snake moves around the screen, eats f
 1. Clone the repo:
    ```
    git clone https://github.com/your-username/snake-game.git
-   cd snake-game ```
+   cd snake-game 
 2. Compile the code:
-   ``` gcc snake.c -o snake.exe ```
-3. Run it:
-   ``` snake.exe ```
+   ```
+   gcc snake.c -o snake.exe 
+4. Run it:
+   ```
+   snake.exe 
